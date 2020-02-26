@@ -1,7 +1,7 @@
-const apiKey = "keysXXXXXXXXXXX";
-const baseId = "appXXXXXXXXXXXX";
-const tableName = "XXXXXXXXXXX";
-const viewId = "viwXXXXXXXXXXX";
+const apiKey = "";
+const baseId = "";
+const tableName = "";
+const viewId = "";
 
 class AirtableBase {
   constructor(apiKey, baseId, tableName, viewId) {
